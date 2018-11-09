@@ -1,2 +1,5 @@
 # hello-world
-Traditionally first repo on GitHub
+
+Hi? Yes, hi everybody!
+
+Ivan here for drugs, sex and rock'n'roll!
